@@ -42,7 +42,7 @@ pip install pennylane numpy opencv-python cryptography tk
 ## 🖥️ Running the App
 
 ```bash
-python fire_ai_v3_5.py
+python main.py
 ```
 
 Once launched:
