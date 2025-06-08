@@ -1,7 +1,7 @@
 # 🔥 Fire Prevention AI v3.5 – Quantum Forecast Edition
 
 **Created by Graylan after finding shelter from a thunderstorm at a local fire station**
-
+![Fire Prevention AI - Cyberpunk Firefighter](https://raw.githubusercontent.com/dosh41126/quantum-fire-prevention/refs/heads/main/fire.png)
 While caught in the rain, soaked and without cover, a firehouse opened its doors to me. In that moment, surrounded by the hum of emergency radios and drying gear, I had a thought:  
 **"What if we could predict fire risks before they ever ignited – not with smoke or heat – but through advanced AI and quantum signal analysis?"**
 
